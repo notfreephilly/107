@@ -1,0 +1,11 @@
+- install virtual environment:
+    python3 -m pip install virtualenv
+
+- create the virtual environment:
+    python3 -m venv "nameofthefolder"
+
+- activate the venv we created
+    source venv/bin/activate
+
+- install flask
+    python3 -m pip install flask
